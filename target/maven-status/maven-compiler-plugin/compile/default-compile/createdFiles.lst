@@ -1,0 +1,4 @@
+com\example\service\GenericService.class
+com\example\config\WebAppInitializer.class
+com\example\config\MyWebAppInitializer.class
+com\example\web\GenericController.class
